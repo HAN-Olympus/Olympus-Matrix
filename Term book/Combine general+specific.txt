@@ -1,0 +1,49 @@
+translation
+metabolism
+signal transduction
+cell division
+TCA
+ECM
+cell division
+transferases
+mitosis
+replication
+meiosis
+acidification
+oxidation
+defecation
+unfold
+Apoptosis
+Mechanosensory
+asymmetry
+biosynthesis or anabolism
+degradation or catabolism
+DNA
+mRNA
+miRNA
+Fatty acid
+daf-2 OR insulin
+Triacylglyceride
+bile acid
+glucuronosyl
+Acetylcholine
+glycogen
+P450
+Ketone bodies
+TOR
+hedgehog
+notch
+epidermal growth factor OR EGF
+ras
+fgf
+tgfb
+wnt
+insulin
+MAPK
+Pentose Phosphate
+Glycolysis
+Gluconeogenesis
+Krebs
+SynMuv
+mitochondrial
+Proteasome

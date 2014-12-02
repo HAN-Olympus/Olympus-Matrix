@@ -1,0 +1,50 @@
+1,2,3-Trichloropropane
+Benzenedicarboxylic acid
+1-bromopropane OR n-propyl bromide
+oxazolidine
+Diisopentylphthalate
+Dinoseb OR 6-sec-butyl-2,4-dinitrophenol
+isopentylphthalate
+Dihexyl phthalate
+Dipentyl phthalate 
+Imidazolidine-2-thione OR 2-imidazoline-2-thiol
+Ammonium pentadecafluorooctanoate 
+Pentadecafluorooctanoic acid 
+1-Methyl-2-pyrrolidone
+Benzyl butyl phthalate 
+Bis (2-ethylhexyl)phthalate 
+Dibutyl phthalate 
+Diisobutyl phthalate
+Tris(2-chloroethyl)phosphate
+Hexachlorobenzene 
+Benzopyrene 
+1,2-dibromo-3-chloropropane 
+cycloheximide
+dinocap 
+trichloroacetic acid
+warfarin 
+1,1,2,2-tetrachloroethane
+1,2,4-trichlorobenzene
+1,2-dibromo-3-chloropropane
+a-HCH
+Chlordane
+endrin
+heptachlor
+heptachlor-epoxide
+hexachlorocyclopentadiene
+y-HCH OR lindane
+methoxychlor
+pentachlorophenol
+Quinoline
+Quinclorac
+Ketoconazole
+Epibatidine
+Ethylbenzene
+Octene
+nonene
+decene
+hexadecene
+1-hexadecene
+egme
+H89
+boric acid
