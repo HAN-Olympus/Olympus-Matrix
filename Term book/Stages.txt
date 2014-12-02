@@ -1,0 +1,12 @@
+Embryo
+Gastrula
+Predauer
+Dauer
+L1
+L2
+L3
+L4
+adult
+Male
+Hermaphrodite
+morphogenesis
