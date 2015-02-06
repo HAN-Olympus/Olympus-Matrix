@@ -1,0 +1,20 @@
+-------------------------------------------------------------------
+# USER GUIDE CREATING SIMILARITY AND BINARY MATRIX
+# Author: 	Tom Linssen
+# Verion: 	1.00
+# Bugs: 	None
+# Language:	Python 
+# Modules:	Tkinter module for visualization
+#			Entrez module for accessing PubMed articles
+#			csv module for writing the output to a CSV file
+-------------------------------------------------------------------
+
+!!! AT STARTUP !!!
+!!! Remove or rename existing CSV files (Similarity and Binary) or it will overwrite !!!
+
+1) Install Pycharm Community (https://www.jetbrains.com/pycharm/download/)
+2) Install and setup on default
+3) File > open > (open project map)
+4) Go to file "TkinterGUI.py" on the left side in the project menu bar
+5) Run > TkinterGUI (Shortcut Alt+shift+F10)
+	5.1) Now its available on the right top side with the green play button (watch if TkinterGUI is selected!)
